@@ -39,7 +39,6 @@ public class B_1697 {
             if(pos == k){
                 return cnt;
             }
-
             for(int i=0; i<3; i++){
                 int next;
 
@@ -55,7 +54,6 @@ public class B_1697 {
                         visited[next] = true;
                     }
                 }
-
             }
         }
         return 0;
