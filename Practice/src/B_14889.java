@@ -34,8 +34,6 @@ public class B_14889 {
             }
             DivTeam(index+1, start_t, (link_t | 1 << index), start_num, link_num+1, start_ab, link_ab+temp);
         }
-
-
     }
     public static void main(String[] args){
 
