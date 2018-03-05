@@ -1,22 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/SW_2383.java" description="            }" line="153" />
+    <bookmark url="file://$PROJECT_DIR$/src/SwExpert/SW_2383.java" description="            }" line="151" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00d103ae-ba5b-46b5-93a2-7778aec3003e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Practice/B_14890.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_10769.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_10816.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_1260.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_1357.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_14890.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_14891.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_1920.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/B_9933.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1931.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2098.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/B_14889.class" afterPath="$PROJECT_DIR$/out/production/Practice/B_14889.class" />
-      <change beforePath="$PROJECT_DIR$/src/B_14889.java" afterPath="$PROJECT_DIR$/src/B_14889.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/B_1018.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/B_1065.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/B_14891.class" afterPath="$PROJECT_DIR$/out/production/Practice/B_14891.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/D4_1865.class" afterPath="$PROJECT_DIR$/out/production/Practice/D4_1865.class" />
+      <change beforePath="$PROJECT_DIR$/src/B_1018.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/B_10451.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_10451.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1065.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1065.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_10769.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_10769.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_10816.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_10816.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_10828.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_10828.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_10844.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_10844.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_10942.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_10942.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11048.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11048.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11052.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11052.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11053.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11053.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11403.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11403.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1145.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1145.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1149.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1149.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11586.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11586.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11722.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11722.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11723.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11723.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11724.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11724.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_11726.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_11726.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1260.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1260.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1325.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1325.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1357.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1357.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_14889.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_14889.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_14890.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_14890.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_14891.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_14891.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1517.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1517.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1620.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1620.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1697.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1697.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1912.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1912.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1920.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1920.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_1932.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_1932.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2098.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/B_2133.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2133.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2163.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2163.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2193.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2193.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2220.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2220.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2240.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2240.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2293.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2293.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2455.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2455.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2579.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2579.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2661.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2661.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2667.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2667.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2695.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2695.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2902.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2902.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_2910.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_2910.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_4383.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_4383.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_4963.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_4963.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_5274.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_5274.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_5639.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_5639.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_6569.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_6569.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_7576.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_7576.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_7785.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_7785.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9012.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9012.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9095.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9095.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9237.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9237.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9322.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9322.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9375.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9375.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9655.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9655.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9663.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9663.java" />
+      <change beforePath="$PROJECT_DIR$/src/B_9933.java" afterPath="$PROJECT_DIR$/src/BaekJoon/B_9933.java" />
+      <change beforePath="$PROJECT_DIR$/src/D1_2071.java" afterPath="$PROJECT_DIR$/src/SwExpert/D1_2071.java" />
+      <change beforePath="$PROJECT_DIR$/src/D2_1859.java" afterPath="$PROJECT_DIR$/src/SwExpert/D2_1859.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_1221.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_1221.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_1244.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_1244.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_1493.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_1493.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_1860.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_1860.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_1873.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_1873.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_2805.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_2805.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_2817.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_2817.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_3142.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_3142.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_3233.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_3233.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_3260.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_3260.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_3282.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_3282.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_3307.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_3307.java" />
+      <change beforePath="$PROJECT_DIR$/src/D3_3314.java" afterPath="$PROJECT_DIR$/src/SwExpert/D3_3314.java" />
+      <change beforePath="$PROJECT_DIR$/src/D4_1861.java" afterPath="$PROJECT_DIR$/src/SwExpert/D4_1861.java" />
+      <change beforePath="$PROJECT_DIR$/src/D4_1865.java" afterPath="$PROJECT_DIR$/src/SwExpert/D4_1865.java" />
+      <change beforePath="$PROJECT_DIR$/src/D4_3074.java" afterPath="$PROJECT_DIR$/src/SwExpert/D4_3074.java" />
+      <change beforePath="$PROJECT_DIR$/src/D4_3289.java" afterPath="$PROJECT_DIR$/src/SwExpert/D4_3289.java" />
+      <change beforePath="$PROJECT_DIR$/src/D4_3347.java" afterPath="$PROJECT_DIR$/src/SwExpert/D4_3347.java" />
+      <change beforePath="$PROJECT_DIR$/src/D4_3349.java" afterPath="$PROJECT_DIR$/src/SwExpert/D4_3349.java" />
+      <change beforePath="$PROJECT_DIR$/src/D_2048.java" afterPath="$PROJECT_DIR$/src/SwExpert/D_2048.java" />
+      <change beforePath="$PROJECT_DIR$/src/SW_1949.java" afterPath="$PROJECT_DIR$/src/SwExpert/SW_1949.java" />
+      <change beforePath="$PROJECT_DIR$/src/SW_1952.java" afterPath="$PROJECT_DIR$/src/SwExpert/SW_1952.java" />
+      <change beforePath="$PROJECT_DIR$/src/SW_2115.java" afterPath="$PROJECT_DIR$/src/SwExpert/SW_2115.java" />
+      <change beforePath="$PROJECT_DIR$/src/SW_2383.java" afterPath="$PROJECT_DIR$/src/SwExpert/SW_2383.java" />
+      <change beforePath="$PROJECT_DIR$/src/S_2105.java" afterPath="$PROJECT_DIR$/src/SwExpert/S_2105.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,74 +113,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="B_9933.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_9933.java">
+      <file leaf-file-name="B_14890.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_14890.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B_2098.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2098.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B_1357.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_1357.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B_10769.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_10769.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B_10816.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_10816.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="56" lean-forward="false" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B_1920.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_1920.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B_14891.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/B_14891.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,20 +164,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/B_1463.java" />
-        <option value="$PROJECT_DIR$/src/B_2579.java" />
-        <option value="$PROJECT_DIR$/src/B_1149.java" />
-        <option value="$PROJECT_DIR$/src/B_9322.java" />
-        <option value="$PROJECT_DIR$/src/B_1065.java" />
-        <option value="$PROJECT_DIR$/src/B_1018.java" />
-        <option value="$PROJECT_DIR$/src/B_11586.java" />
-        <option value="$PROJECT_DIR$/src/D3_2806.java" />
-        <option value="$PROJECT_DIR$/src/B_9663.java" />
-        <option value="$PROJECT_DIR$/src/B_10942.java" />
-        <option value="$PROJECT_DIR$/src/B_9375.java" />
         <option value="$PROJECT_DIR$/src/B_9095.java" />
         <option value="$PROJECT_DIR$/src/B_2193.java" />
-        <option value="$PROJECT_DIR$/src/B_1932.java" />
         <option value="$PROJECT_DIR$/src/B_1697.java" />
         <option value="$PROJECT_DIR$/src/B_2455.java" />
         <option value="$PROJECT_DIR$/src/B_11048.java" />
@@ -171,7 +189,6 @@
         <option value="$PROJECT_DIR$/src/D1_2071.java" />
         <option value="$PROJECT_DIR$/src/B_9655.java" />
         <option value="$PROJECT_DIR$/src/B_5274.java" />
-        <option value="$PROJECT_DIR$/src/B_2098.java" />
         <option value="$PROJECT_DIR$/src/B_2902.java" />
         <option value="$PROJECT_DIR$/src/B_1620.java" />
         <option value="$PROJECT_DIR$/src/B_1260.java" />
@@ -185,6 +202,19 @@
         <option value="$PROJECT_DIR$/src/B_10816.java" />
         <option value="$PROJECT_DIR$/src/B_1920.java" />
         <option value="$PROJECT_DIR$/src/B_14891.java" />
+        <option value="$PROJECT_DIR$/src/D4_1865.java" />
+        <option value="$PROJECT_DIR$/src/B_1931.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_1018.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_1065.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_1149.java" />
+        <option value="$PROJECT_DIR$/src/B_1932.java" />
+        <option value="$PROJECT_DIR$/src/B_1065.java" />
+        <option value="$PROJECT_DIR$/src/B_2098.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_1145.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_1697.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_2910.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon/B_11722.java" />
+        <option value="$PROJECT_DIR$/src/SwExpert/D3_1873.java" />
       </list>
     </option>
   </component>
@@ -226,6 +256,18 @@
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BaekJoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SwExpert" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -258,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.B_14891">
+  <component name="RunManager" selected="Application.B_2098">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -283,37 +325,9 @@
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
     </configuration>
-    <configuration name="B_10769" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="B_10769" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Practice" />
-      <envs />
-    </configuration>
     <configuration name="B_10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="B_10816" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Practice" />
-      <envs />
-    </configuration>
-    <configuration name="B_1357" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="B_1357" />
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.B_10816" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -327,7 +341,7 @@
     </configuration>
     <configuration name="B_14891" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="B_14891" />
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.B_14891" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -341,7 +355,35 @@
     </configuration>
     <configuration name="B_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="B_1920" />
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.B_1920" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Practice" />
+      <envs />
+    </configuration>
+    <configuration name="B_1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.B_1931" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Practice" />
+      <envs />
+    </configuration>
+    <configuration name="B_2098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.B_2098" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -369,19 +411,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.B_1357" />
-      <item index="1" class="java.lang.String" itemvalue="Application.B_10769" />
-      <item index="2" class="java.lang.String" itemvalue="Application.B_10816" />
-      <item index="3" class="java.lang.String" itemvalue="Application.B_1920" />
-      <item index="4" class="java.lang.String" itemvalue="Application.B_14891" />
+      <item index="0" class="java.lang.String" itemvalue="Application.B_10816" />
+      <item index="1" class="java.lang.String" itemvalue="Application.B_1920" />
+      <item index="2" class="java.lang.String" itemvalue="Application.B_14891" />
+      <item index="3" class="java.lang.String" itemvalue="Application.B_1931" />
+      <item index="4" class="java.lang.String" itemvalue="Application.B_2098" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.B_14891" />
-        <item index="1" class="java.lang.String" itemvalue="Application.B_1920" />
-        <item index="2" class="java.lang.String" itemvalue="Application.B_10816" />
-        <item index="3" class="java.lang.String" itemvalue="Application.B_10769" />
-        <item index="4" class="java.lang.String" itemvalue="Application.B_1357" />
+        <item index="0" class="java.lang.String" itemvalue="Application.B_2098" />
+        <item index="1" class="java.lang.String" itemvalue="Application.B_1931" />
+        <item index="2" class="java.lang.String" itemvalue="Application.B_14891" />
+        <item index="3" class="java.lang.String" itemvalue="Application.B_1920" />
+        <item index="4" class="java.lang.String" itemvalue="Application.B_10816" />
       </list>
     </recent_temporary>
   </component>
@@ -452,12 +494,12 @@
       <workItem from="1518596215976" duration="23531000" />
       <workItem from="1518925774796" duration="30036000" />
       <workItem from="1519185384802" duration="19787000" />
-      <workItem from="1519493608074" duration="29243000" />
+      <workItem from="1519493608074" duration="41603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="564504000" />
+    <option name="totallyTimeSpent" value="576864000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,6 +512,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
@@ -479,13 +522,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21644498" sideWeight="0.33261803" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21644498" sideWeight="0.667382" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21644498" sideWeight="0.667382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19241774" sideWeight="0.49382716" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -497,7 +541,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -545,421 +588,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/B_1912.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1697.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1845#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_9655.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_7785.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_5274.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="44" column="11" lean-forward="false" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#537#546#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2098.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_7576.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_14889.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_14890.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1620.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1517.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1932.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2133.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2163.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2220.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <marker date="1518884399245" expanded="true" signature="853:933" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_4383.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_4963.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2902.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2695.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2667.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2579.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2455.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2293.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2193.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_1860.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_2805.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_2817.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_3142.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-334">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_3260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_3282.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_3314.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D4_3289.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-584">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D4_3347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D4_3349.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D_2048.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SW_1949.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1388">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SW_2115.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SW_2383.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D4_1861.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_3307.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3_3233.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_9933.java">
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_9933.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1357.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_10769.java">
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_10769.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_2910.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#4921#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_10816.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="56" lean-forward="false" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D4_3074.java">
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D4_3074.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-203">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -967,23 +616,399 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_1920.java">
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_14891.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="1496">
+          <caret line="88" column="19" lean-forward="true" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_14891.java">
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D4_1865.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="894">
+          <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1931.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1018.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1065.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1932.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1920.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1145.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1149.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1260.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1325.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1357.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1517.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1620.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1912.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_1697.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2293.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2193.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2579.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2455.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1520225713276" expanded="true" signature="872:952" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2661.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2667.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2695.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2910.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_10816.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_10828.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_10844.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_10942.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_11048.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_11052.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_11053.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_11403.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_11586.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_11722.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D1_2071.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D2_1859.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_2817.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_1860.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_1493.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_3260.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_2805.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_1873.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="51" lean-forward="true" selection-start-line="161" selection-start-column="51" selection-end-line="161" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_3307.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwExpert/D3_1221.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_14890.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2098.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
