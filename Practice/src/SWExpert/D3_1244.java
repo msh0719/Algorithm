@@ -54,14 +54,13 @@ public class D3_1244 {
     public static void main(String args[]) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
 
         int tc = Integer.parseInt(br.readLine());
 
         for(int i=0; i<tc; i++){
             StringTokenizer st = new StringTokenizer(br.readLine());
-            C = st.nextToken();
-            N = Integer.parseInt(st.nextToken());
+            C = st.nextToken(); //숫자
+            N = Integer.parseInt(st.nextToken());//바꿀 횟수
 
             int temp = N;
             len = C.length();
