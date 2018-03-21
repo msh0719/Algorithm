@@ -98,9 +98,8 @@ public class SW_2112 {
                 }
             }
             min = Integer.MAX_VALUE;
-//            dfs(0,0);
-            check();
-            //bw.write("#" + (tc+1) + " " + min + "\n");
+            dfs(0,0);
+            bw.write("#" + (tc+1) + " " + min + "\n");
 
 
         }
