@@ -1,3 +1,5 @@
+package Test;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
@@ -8,12 +10,11 @@ public class brother {
         StringTokenizer st;
 
         for(int i=0; i<10; i++){
-            for(int j=0; j<10; j++){
-                if(i == j){
-                    System.out.println(i + " " + j);
+                if(i == 3){
+                    System.out.println(i + " " + 3);
                     break;
                 }
             }
         }
-    }
 }
+
