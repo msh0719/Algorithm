@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00d103ae-ba5b-46b5-93a2-7778aec3003e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BaekJoon/B_13459.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SWExpert/SW_2477.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Test/kakao1_1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Test/kakao1_2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SWExpert/SW_1953.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/brother.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brother.java" afterPath="$PROJECT_DIR$/src/Test/brother.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SWExpert/SW_2477$1.class" afterPath="$PROJECT_DIR$/out/production/Practice/SWExpert/SW_2477$1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SWExpert/SW_2477.class" afterPath="$PROJECT_DIR$/out/production/Practice/SWExpert/SW_2477.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,13 +35,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SW_2477.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SW_2477.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SWExpert/SW_2477.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="138" column="59" lean-forward="false" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+            <state relative-caret-position="102">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SW_1953.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SWExpert/SW_1953.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-549">
+              <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#616#626#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/B_1145.java" />
         <option value="$PROJECT_DIR$/src/B_1912.java" />
         <option value="$PROJECT_DIR$/src/D1_2071.java" />
         <option value="$PROJECT_DIR$/src/B_9655.java" />
@@ -133,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/Test/kakao1_2.java" />
         <option value="$PROJECT_DIR$/src/Test/brother.java" />
         <option value="$PROJECT_DIR$/src/SWExpert/SW_2477.java" />
+        <option value="$PROJECT_DIR$/src/SWExpert/SW_1953.java" />
       </list>
     </option>
   </component>
@@ -180,7 +190,7 @@
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="SWExpert" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SW_2477">
+  <component name="RunManager" selected="Application.SW_1953">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -237,14 +247,14 @@
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
     </configuration>
-    <configuration name="B_13459" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SW_1953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="PATTERN" value="SWExpert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.B_13459" />
+      <option name="MAIN_CLASS_NAME" value="SWExpert.SW_1953" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -348,19 +358,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.B_13459" />
-      <item index="1" class="java.lang.String" itemvalue="Application.kakao1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.kakao1_2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SW_2477" />
-      <item index="4" class="java.lang.String" itemvalue="Application.brother" />
+      <item index="0" class="java.lang.String" itemvalue="Application.kakao1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.kakao1_2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SW_2477" />
+      <item index="3" class="java.lang.String" itemvalue="Application.brother" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SW_1953" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SW_2477" />
-        <item index="1" class="java.lang.String" itemvalue="Application.brother" />
-        <item index="2" class="java.lang.String" itemvalue="Application.kakao1_2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.kakao1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.B_13459" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SW_1953" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SW_2477" />
+        <item index="2" class="java.lang.String" itemvalue="Application.brother" />
+        <item index="3" class="java.lang.String" itemvalue="Application.kakao1_2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.kakao1" />
       </list>
     </recent_temporary>
   </component>
@@ -443,12 +453,12 @@
       <workItem from="1521693567191" duration="904000" />
       <workItem from="1521778814896" duration="14765000" />
       <workItem from="1521874982303" duration="1155000" />
-      <workItem from="1521953465433" duration="1214000" />
+      <workItem from="1521953465433" duration="11585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="652344000" />
+    <option name="totallyTimeSpent" value="662715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,13 +547,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_14889.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BaekJoon/B_2098.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -815,6 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="559">
           <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -894,10 +898,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SWExpert/SW_2477.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="138" column="59" lean-forward="false" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWExpert/SW_1953.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#616#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
