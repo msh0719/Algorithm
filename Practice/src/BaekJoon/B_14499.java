@@ -63,8 +63,6 @@ public class B_14499 {
             dice[5] = map[nextX][nextY];
             map[nextX][nextY] = 0;
         }
-
-
         return dice[0];
     }
 

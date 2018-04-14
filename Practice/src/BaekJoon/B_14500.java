@@ -34,6 +34,7 @@ public class B_14500 {
                  dfs(nextX, nextY, cnt+1);
             }
         }
+        //원래 대로 돌리기!
         map[x][y] = temp;
         max -= temp;
     }

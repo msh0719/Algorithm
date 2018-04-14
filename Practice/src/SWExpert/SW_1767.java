@@ -84,16 +84,6 @@ public class SW_1767 {
         }
         dfs(index+1, cnt, len); //현재 index 프로세서 연결안하고 다음거로 넘기기
     }
-
-    public static void print(){
-        for(int i=0; i<N; i++){
-            for(int j=0; j<N; j++){
-                System.out.print(map[i][j] + " ");
-            }
-            System.out.println();
-        }
-//        System.out.println();
-    }
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

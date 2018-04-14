@@ -27,7 +27,7 @@ public class B_14889 {
             DivTeam(index+1, (start_t | 1 << index), link_t, start_num+1, link_num, start_ab+temp, link_ab);
         }
         //link 팀
-        else if(link_num < (N/2)){
+        if(link_num < (N/2)){
             temp = 0;
             for(int i=0; i<N; i++){
                 if((link_t & (1<<i)) == 0){
@@ -36,6 +36,8 @@ public class B_14889 {
             }
             DivTeam(index+1, start_t, (link_t | 1 << index), start_num, link_num+1, start_ab, link_ab+temp);
         }
+
+
     }
     public static void main(String[] args){
 
@@ -53,4 +55,3 @@ public class B_14889 {
         System.out.println(min);
     }
 }
-

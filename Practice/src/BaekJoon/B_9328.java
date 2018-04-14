@@ -52,9 +52,10 @@ public class B_9328 {
 
                 if(nextX < 0 || nextX >= H || nextY < 0 || nextY>= W)
                     continue;
-                if(map[nextX][nextY]=='*' || visit[nextX][nextY])
+                if(map[nextX][nextY]=='*')
                     continue;
-
+                if(visit[nextX][nextY])
+                    continue;
                 if(Character.isLowerCase(map[nextX][nextY])){
                     key.add(map[nextX][nextY]);//키 획득
 

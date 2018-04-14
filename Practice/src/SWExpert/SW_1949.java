@@ -55,7 +55,7 @@ public class SW_1949 {
 
         if (finish) {
             int count = pStack.size();
-            if(count >0)
+            if(count > 0)
                 len = Math.max(len, count);
         }
 

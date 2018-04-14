@@ -34,7 +34,7 @@ public class B_14503 {
                break;
            }
         }
-        if(!signal){
+        if(!signal){ //청소를 못했다면
             boolean sig = false;
             int back = back(d);
             int nextX = x + dx[back];

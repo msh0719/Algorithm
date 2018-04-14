@@ -13,17 +13,15 @@ public class D3_4172 {
     static int[] score;
     static int result;
 
-    public static void DFS(int index, int price_ ,int sat) {
-        if(price_ > N) //해당 가격이 가격제한인 N을 초과하게되면 더이상의 진행은 무의미
+    public static void dfs(int index, int price_ ,int score_) {
+        if(price_ > N)
             return;
-        if(index==M) { //모든 경우를 다 선택하였을때
-            if(sat > result) { //만족도가 가장 큰 것을 고른다.
-                result = sat;
-            }
+        if(index==M) {
+            result = Math.max(result, score_);
             return;
         }
-        DFS(index+1,price_ +price[index], sat+score[index]); //해당 index를 선택한 경우
-        DFS(index+1, price_, sat); //선택 하지 않은경우
+        dfs(index+1,price_+price[index], score_+score[index]);
+        dfs(index+1, price_, score_);
     }
 
 
@@ -33,7 +31,6 @@ public class D3_4172 {
         StringTokenizer st;
 
         int T = Integer.parseInt(br.readLine());
-        int max;
 
         for(int tc = 0; tc < T; tc++){
             st = new StringTokenizer(br.readLine());
@@ -49,7 +46,7 @@ public class D3_4172 {
             }
 
             result = Integer.MIN_VALUE;
-            DFS(0,0,0);
+            dfs(0,0,0);
 
 
             bw.write("#" + (tc+1) + " " + result + "\n");

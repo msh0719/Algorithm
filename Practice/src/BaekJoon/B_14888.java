@@ -1,6 +1,7 @@
 package BaekJoon;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 /**
@@ -15,6 +16,7 @@ public class B_14888 {
     static boolean[][] visit;
     static int max;
     static int min;
+    static ArrayList<String> list = new ArrayList<>();
 
     public static void Calculation(int num, int index, int sum, int sub, int mul, int div){
         if(index == N){
@@ -24,6 +26,8 @@ public class B_14888 {
         }
 
         if(sum < cal[0]){
+            list.add("+");
+            list.add(Integer.toString(arr[index]));
             Calculation(num+arr[index], index+1, sum+1, sub, mul, div);
         }
         if(sub < cal[1]){
@@ -57,6 +61,7 @@ public class B_14888 {
         for(int i=0; i<4; i++){
             cal[i] = Integer.parseInt(st.nextToken());
         }
+        list = new ArrayList<>();
         Calculation(arr[0],1,0,0,0,0);
 
         bw.write(max + "\n");
